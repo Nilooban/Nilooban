@@ -1,5 +1,4 @@
 👋 Hi, I’m @Nilooban
- I’m currently learning Javascript 
 
 
 
